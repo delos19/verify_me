@@ -1,5 +1,6 @@
-Riot Desktop on Linux :           ID: AMPIYGGCRI, KEY: 3V5t ZZMu RDBM 4Rjn M3An 7swi 33jA dGBv Z2YQ X5CL vfc
-Mobile: 				          ID: KBMZHPFCFD, KEY: 5Wfa tyEm V6pB TfJ9 i4oM 4ESH CDLy hFKB odMi X2zF LZI
+Riot Desktop on Linux :    ID: AMPIYGGCRI, 	KEY: 3V5t ZZMu RDBM 4Rjn M3An 7swi 33jA dGBv Z2YQ X5CL vfc
+Mobile: 		   ID: KBMZHPFCFD, 	KEY: 5Wfa tyEm V6pB TfJ9 i4oM 4ESH CDLy hFKB odMi X2zF LZI
+Riot Desktop on Windows:   ID: EXWCYDIMEX	KEY: M7IK swLZ 9RY5 wpWd ouEj ATrw yHGT jh1w 06mK uirj A4c
 
 
  
