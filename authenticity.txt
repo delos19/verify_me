@@ -1,7 +1,8 @@
 Riot Desktop on Linux (Fedora): ID: AMPIYGGCRI, 	KEY: 3V5t ZZMu RDBM 4Rjn M3An 7swi 33jA dGBv Z2YQ X5CL vfc
 Mobile: 		   	ID: KBMZHPFCFD, 	KEY: 5Wfa tyEm V6pB TfJ9 i4oM 4ESH CDLy hFKB odMi X2zF LZI
 Riot Desktop on Windows:   	ID: EXWCYDIMEX,		KEY: M7IK swLZ 9RY5 wpWd ouEj ATrw yHGT jh1w 06mK uirj A4c
-Riot Deskto on Linux (Ubuntu):  ID: QXMUNJHNDR, 	KEY: JjFz o5YL HgG1 olqu qljO 752V H+sy biKw ITk1 X3Xl 3Sw 
+Riot Desktop in Linux (Ubuntu):  ID: QXMUNJHNDR, 	KEY: JjFz o5YL HgG1 olqu qljO 752V H+sy biKw ITk1 X3Xl 3Sw 
+Riot Desktop on Windows (Laptop): ID: XFTPTPWWDG        KEY: cVX0 rmRS xzws vjuz H2vE omy+ KCNy sc8a aPQT kaA0 WR8
 
  
 
